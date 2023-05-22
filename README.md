@@ -1,5 +1,4 @@
-# app-dev
-My first repository
-![alt text](https://books.disney.com/content/uploads/2022/08/915a2Dr5L.jpg)
-The mandalorian<br>
-One of the best star wars series of disney plus
+#       Star wars Clone Wars
+![alt text](https://m.media-amazon.com/images/M/MV5BZWFlNzRmOTItZjY1Ni00ZjZkLTk5MDgtOGFhOTYzNWFhYzhmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg)
+Clone wars<br>
+One of the best star wars animated series quality story that connects to the movies
